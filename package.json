@@ -1,0 +1,14 @@
+{
+  "name": "kost-cemara",
+  "version": "1.0.0",
+  "description": "Website Kost Putri Cemara 1",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=8000"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
